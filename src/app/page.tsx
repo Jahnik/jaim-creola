@@ -135,7 +135,7 @@ export default function Home() {
         <div style={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
           <h2 style={{ textAlign: "center" }}>About Me</h2>
           <p style={{ fontSize: "2rem", textAlign: "left", margin: 0 }}>
-            Hey, I&apos;m a musician, composer, and performer. I&apos;m a student at the University of Pittsburgh, where I study music composition and performance. I&apos;m also a member of the University of Michigan Symphony Orchestra, where I play the violin.
+            Hey, I&apos;m a singer, songwriter, and performer. I&apos;m a student at the University of Pittsburgh, where I am pursuing a Masters in Speech-Language Pathology. I&apos;ve also performed in several musicals in Philadelphia and Mechanicsburg including playing the role of Dorothy in a production of The Wizard of Oz.
           </p>
         </div>
       </section>
