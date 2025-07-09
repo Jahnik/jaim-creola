@@ -46,10 +46,10 @@ export default function Home() {
         }}
       >
         <div style={{ position: "relative", zIndex: 1 }}>
-          <h1 style={{ fontSize: "3rem", marginTop: "1rem", marginBottom: "1rem", textAlign: "center" }}>Jaim Creola</h1>
+          <h1 style={{ fontSize: "3rem", marginTop: "1rem", marginBottom: "1rem", textAlign: "center" }}>Jaime Carson</h1>
           <Image
             src="/jaim-hero.jpeg"
-            alt="Jaim Creola"
+            alt="Jaime Carson"
             width={450}
             height={450}
             style={{
